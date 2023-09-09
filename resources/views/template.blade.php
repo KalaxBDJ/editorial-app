@@ -15,7 +15,7 @@
     <div class="container mx-auto">
         <div class="flex items-center justify-between">
             <div class="flex items-center space-x-2">
-                <img src="{{ asset('build/assets/icono-d7cd26cb.png') }}" alt="icon" class="h-10 w-10 object-cover">
+                <img src="{{ asset('build/assets/images/icono.png') }}" alt="icon" class="h-10 w-10 object-cover">
                 <div class="text-white text-2xl font-semibold">
                     <a href="{{ route('home') }}">
                         Estrellas Literarias
